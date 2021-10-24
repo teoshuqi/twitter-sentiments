@@ -1,0 +1,9 @@
+venv/
+.idea/
+data/
+__pycache__/
+
+
+
+glove_embeddings.pickle
+tokenizer.pickle
